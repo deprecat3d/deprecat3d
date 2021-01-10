@@ -21,32 +21,7 @@ Years before I wanted to be a programmer, I published a novel book inspired by B
 
 But I like writing codes more than writing kiss poems and books. I like to think about the best and most optimized process for solving a problem more than about the best dialogue for a dramatic context. And I'm definitely a better software engineer than a writer. 😂
 
-Currently work at Frete Rápido.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Flutter, React Native and micro-frontend architecture   
-  
-
-- ⏱️ I have been using JS daily for three years and TS for a year (and counting)  
-  
-
-- ⚡ Fun fact: I sleep listening to the same songs for programming  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+Currently work at Frete Rápido.   
 
 <br/>  
 
@@ -81,29 +56,6 @@ Currently work at Frete Rápido.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deprecat3d&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deprecat3d&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=deprecat3d&&style=flat-square)  
-  
 
 <br/>  
 
