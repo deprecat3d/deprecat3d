@@ -17,9 +17,9 @@
 ### A little about me...  
 I am brazilian software engineer  focused in front-end technologies and tools. 
 
-Years before I wanted to be a programmer, I published a novel book inspired by Bukowski's adventures. I really think that this process helped me to develop creativity. So I consider myself a creative person.
+Years before I wanted to be a programmer, I published a novel book, so I consider myself a creative person.
 
-But I like writing codes more than writing kiss poems and books. I like to think about the best and most optimized process for solving a problem more than about the best dialogue for a dramatic context. And I'm definitely a better software engineer than a writer. 😂
+But I'm definitely a better software engineer than a writer. 😂
 
 Currently work at Frete Rápido.   
 
